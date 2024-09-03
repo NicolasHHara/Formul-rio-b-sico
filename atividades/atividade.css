@@ -1,0 +1,92 @@
+form{
+    border-radius: 100px;
+    border: 1px black solid;
+}
+fieldset{
+    margin-left: 350px;
+    width: 40%;
+    height: 1000px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+
+}
+legend{
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.label{
+    margin-left: 70px;  
+    font-size: large;
+
+}
+
+p{
+    font-size: large;
+    margin-left: 30px;
+}
+ul{
+    margin-left: 40px;
+}
+
+#nome{
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    height: 20px;
+    width: 350px;
+
+}
+#sobrenome{
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    height: 20px;
+    width: 350px;
+}
+#email{
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    height: 20px;
+    width: 350px;
+}
+#senha{
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    height: 20px;
+    width: 350px;
+}
+#dtnasc{
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    height: 30px;
+    width: 100px;
+}
+#descricao{
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    height: 100px;
+    width: 350px;
+}
+#Cadastrar{
+    margin-left: 150px;
+    height: 20px;
+    width: 80px;
+    float: left;
+}
+#Reset{
+    margin-left: 20px;
+    height: 20px;
+    width: 80px;
+}
+
